@@ -1,7 +1,7 @@
 {
-  "name": "OwlHands",
+  "name": "MEC4R",
   "version": "1.0.0",
-  "description": "Owl Hands business site",
+  "description": "Multi Ethnic Center for Reverends",
   "keywords": [
     "OpenShift",
     "Node.js",
@@ -9,13 +9,13 @@
     "damnbroProductions"
   ],
   "author": {
-    "name": "strangeBird",
+    "name": "Brian Vivas",
     "email": "owlhands.anything@gmail.com",
     "url": "http://www.owlhands.com/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": ""
   },
   "engines": {
     "node": ">= 0.6.0",
